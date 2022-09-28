@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: huawei-cloud-cce-tf-module
+  annotations:
+    github.com/project-slug: abejaranog/huawei-cloud-cce-tf-module
+spec:
+  type: other
+  lifecycle: unknown
+  owner: devops
